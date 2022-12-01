@@ -13,7 +13,7 @@ function Header() {
         <Link to="À propos">
           <li className={style["style-list"]}>À propos</li>
         </Link> */}
-        <Link to="Accueil" className={style["style-list"]}>
+        <Link to="/" className={style["style-list"]}>
           Accueil
         </Link>
         <Link to="À propos" className={style["style-list"]}>
