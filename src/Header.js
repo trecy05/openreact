@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <>
+    <div className={style["div-Header"]}>
       <img src={logoHeader} alt="Logo de l'enseigne" />
       <nav>
         <Link to="/" className={style["style-list"]}>
@@ -14,7 +14,7 @@ function Header() {
           À propos
         </Link>
       </nav>
-    </>
+    </div>
   );
 }
 export default Header;

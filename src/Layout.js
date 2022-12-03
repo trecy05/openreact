@@ -1,5 +1,4 @@
 import Banniere from "./Banniere";
-import Footer from "./Footer";
 import Header from "./Header";
 
 function Layout(params) {
@@ -7,7 +6,6 @@ function Layout(params) {
     <>
       <Header />
       <Banniere />
-      <Footer />
     </>
   );
 }
