@@ -8,7 +8,7 @@ function RoutesPath(params) {
     <>
       <Routes>
         <Route path="/" element={<Accueil />} />
-        <Route path="À propos" element={<APropos />} />
+        <Route path="A propos" element={<APropos />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
     </>
