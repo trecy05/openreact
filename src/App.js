@@ -4,6 +4,7 @@ import Header from "./Header";
 import RoutesPath from "./RoutesPath";
 import "./App.module.css";
 import Banniere from "./Banniere";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Header />
         <Banniere />
         <RoutesPath />
+        <Footer />
       </BrowserRouter>
     </>
   );
