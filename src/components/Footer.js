@@ -1,6 +1,6 @@
-import "./Footer.module.css";
-import logoFooter from "./logoFooter.png";
-import style from "./Footer.module.css";
+import "../styles/Footer.module.css";
+import logoFooter from "../images/logoFooter.png";
+import style from "../styles/Footer.module.css";
 function Footer(params) {
   return (
     <footer>
