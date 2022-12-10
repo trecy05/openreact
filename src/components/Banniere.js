@@ -1,4 +1,4 @@
-import logoBanniere from "../images/Banniere.png";
+import logoBanniere from "../assets/images/Banniere.png";
 import style from "../styles/Banniere.module.css";
 
 function Banniere(params) {

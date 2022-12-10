@@ -1,0 +1,42 @@
+
+
+.card-logement{
+    margin-bottom: 50px;
+}
+
+.card_lien{
+    height: 340px;
+    width: 340px;
+    position: relative;
+}
+
+.card_infos{
+    border-radius: 10px;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
+.card_img{
+    height: 340px;
+    width: 340px;
+    border-radius: 10px;
+    object-fit: cover;
+    
+}
+
+
+.card_title{
+    position: absolute;
+    bottom: 2px;
+    color: white;
+    font-size: 17px;
+    left: 20px;
+ 
+   
+}
+
+
